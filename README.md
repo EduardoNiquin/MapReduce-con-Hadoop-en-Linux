@@ -215,4 +215,10 @@ hadoop jar /home/hdoop/ContadorPalabras/hadoop-mapreduce-examples-3.3.2.jar word
 hdfs dfs -cat /ContadorPalabras/Salida/*
 ```
 
+## Notas finales sobre los archivos
+#### ***El archivo generador.py es un programa que crea un archivo.txt de una lista de frutas escogidas al azar con un máximo de 10.000 caracteres***
+#### ***El archivo WordCount.java es un programa que contiene el código para compilar que utiliza wordcount con MapReduce***
+#### ***El archivo hadoop-mapreduce-examples-3.3.2.jar es el ejecutable para utilizar MapReduce ya compilado***
+#### ***El archivo frutas.txt es un ejemplo ya generado por el programa en python que se puede utilizar para no tener que ejecutar el generador.py***
+
 
