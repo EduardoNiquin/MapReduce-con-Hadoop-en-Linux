@@ -1,5 +1,5 @@
 # MapReduce con Hadoop en Linux
-Intalación de Hadoop en Linux y su implementación de MapReduce.
+Intalación de Hadoop en Linux y su implementación de MapReduce. También un ejemplo de su uso con WordCount para contar las repeticiones en un archivo.txt
 
 ## Prerrequisitos
 #### ***1-Java***
